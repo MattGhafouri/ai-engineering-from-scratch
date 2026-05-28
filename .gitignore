@@ -55,5 +55,8 @@ mlruns/
 .gstack/
 
 .link-cache.json
-.claude/
 catalog.json
+
+# Personal learning progress (track-progress skill)
+.learning-progress.json
+.learning-progress.json.bak
